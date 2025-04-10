@@ -2,6 +2,8 @@
 
 
 ## Predict Podcast Listening Time
+https://www.kaggle.com/c/playground-series-s5e4/overview
+
 ./podcasts_time
 > Your task it to predict listening time of a podcast episode.
 
